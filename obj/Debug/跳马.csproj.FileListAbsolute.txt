@@ -1,0 +1,14 @@
+E:\学习\GIS算法基础\0912\跳马\跳马\bin\Debug\跳马.exe.config
+E:\学习\GIS算法基础\0912\跳马\跳马\bin\Debug\跳马.exe
+E:\学习\GIS算法基础\0912\跳马\跳马\bin\Debug\跳马.pdb
+E:\学习\GIS算法基础\0912\跳马\跳马\obj\Debug\跳马.csprojResolveAssemblyReference.cache
+E:\学习\GIS算法基础\0912\跳马\跳马\obj\Debug\跳马.csproj.CoreCompileInputs.cache
+E:\学习\GIS算法基础\0912\跳马\跳马\obj\Debug\跳马.exe
+E:\学习\GIS算法基础\0912\跳马\跳马\obj\Debug\跳马.pdb
+E:\学习\GIS算法基础\0912\作业\跳马\跳马\bin\Debug\跳马.exe.config
+E:\学习\GIS算法基础\0912\作业\跳马\跳马\bin\Debug\跳马.exe
+E:\学习\GIS算法基础\0912\作业\跳马\跳马\bin\Debug\跳马.pdb
+E:\学习\GIS算法基础\0912\作业\跳马\跳马\obj\Debug\跳马.csprojResolveAssemblyReference.cache
+E:\学习\GIS算法基础\0912\作业\跳马\跳马\obj\Debug\跳马.csproj.CoreCompileInputs.cache
+E:\学习\GIS算法基础\0912\作业\跳马\跳马\obj\Debug\跳马.exe
+E:\学习\GIS算法基础\0912\作业\跳马\跳马\obj\Debug\跳马.pdb
